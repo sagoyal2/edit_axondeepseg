@@ -1,4 +1,4 @@
-#This is an editeded implementation AxonDeepSeg
+#This is an edited implementation AxonDeepSeg
 
 Original Link: https://github.com/neuropoly/axondeepseg/tree/5078fc9019520f619fb75f62c863faab19239af5
 Docs: http://axondeepseg.readthedocs.io/en/stable/documentation.html#
